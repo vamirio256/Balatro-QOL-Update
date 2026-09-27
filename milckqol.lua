@@ -14,11 +14,11 @@ function Controller.key_press_update(self, key, dt)
         ["3"] = 3,
         ["4"] = 4,
         ["5"] = 9,
-        ["q"] = 5,
-        ["w"] = 6,
-        ["e"] = 7,
-        ["r"] = 8,
-        ["t"] = 10
+        ["6"] = 5,
+        ["7"] = 6,
+        ["8"] = 7,
+        ["9"] = 8,
+        ["0"] = 10
     }
     keys_to_ui = {
         ["z"] = "sort_value",
