@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Milck QOL
 --- MOD_ID: milkqol
---- MOD_AUTHOR: [Milck]
+--- MOD_AUTHOR: [Milck, vamirio256]
 --- MOD_DESCRIPTION: Add keyboard shortcuts to the game
 ----------------------------------------------
 ------------MOD CODE -------------------------

@@ -1,6 +1,8 @@
 # [WIP] Milck's QOL
 Mod for [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
 
+Fork of [Balatro-QOL](https://github.com/Mi1cK/Balatro-QOL) by [Mi1cK](https://github.com/Mi1cK).
+
 ## Key Binder
 ![layout](https://github.com/Mi1cK/Balatro-QOL/assets/161165747/8c0cb8cd-3cf6-43a7-84c9-6620421e6864)
 
